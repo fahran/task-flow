@@ -1,0 +1,11 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+*.sass-cache
+*.sublime-*
+
+dist
+node_modules
+src/*.html
+test/coverage
+test/dist
